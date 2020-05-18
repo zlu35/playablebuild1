@@ -13,7 +13,7 @@ let config = {
         arcade: {
             //debug: true,
         }
-    },
+    }, 
     scene: [  Menu, FirstLevel, SecondLevel, ThirdLevel ],
 };
 
